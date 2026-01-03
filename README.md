@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm nicoczaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm nicodev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4> Languages </h4>
 <span> 
   <img width= "30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -16,14 +16,14 @@
 
 <h4> Check out my Social Media </h4>
 <span>
-  <a href= "https://www.linkedin.com/in/nicocza/">
+  <a href= "https://www.linkedin.com/in/nicodevcero/">
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </span>
 
 <h4> GitHub Stats </h4>
 <p>
-  <a href="https://github.com/nicoczaa">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicoczaa&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/nicodevcero">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicodevcero&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
 </p>
 
