@@ -16,14 +16,14 @@
 
 <h4> Check out my Social Media </h4>
 <span>
-  <a href= "https://www.linkedin.com/in/nicodevcero/">
+  <a href= "https://www.linkedin.com/in/nicodev404/">
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </span>
 
 <h4> GitHub Stats </h4>
 <p>
-  <a href="https://github.com/nicodevcero">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicodevcero&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/nicodev404">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicodev404&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
 </p>
 
