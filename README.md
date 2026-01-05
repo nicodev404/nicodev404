@@ -4,7 +4,7 @@
   <img width= "30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img width = "78px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img width = "50px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img width = "112px" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img width = "112px" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -16,8 +16,7 @@
 
 <h4> Check out my Social Media </h4>
 <span>
-  <a href= "https://www.linkedin.com/in/nicodev404/">
-<img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href = 'https://www.linkedin.com/in/nicodev404'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 </span>
 
 <h4> GitHub Stats </h4>
