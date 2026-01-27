@@ -16,7 +16,7 @@
 
 <h4> Check out my Social Media </h4>
 <span>
-  <a href = 'https://www.linkedin.com/in/nicodev404'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+  <a href = "https://www.linkedin.com/in/nicodev404" target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 </span>
 
 <h4> GitHub Stats </h4>
